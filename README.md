@@ -82,13 +82,13 @@
 
 <h2>🕹️ Play Game with Me</h2>
 
-<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" width="100%"/>
+<img src="https://raw.githubusercontent.com/ferdian-mldn/ferdian-mldn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <br/>
 
 ### ᗧ···ᗣ···ᗣ···
 
-<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/ferdian-mldn/ferdian-mldn/output/pacman-contribution-graph.svg" alt="Pacman graph" width="100%"/>
 
 <br/>
 

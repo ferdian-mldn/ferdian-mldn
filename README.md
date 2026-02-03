@@ -3,7 +3,7 @@
 # Hello World!, I'm Ferdian Maulidin 👋
 ### A Passionate Developer & Tech Enthusiast
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9kLPG/giphy.gif" width="100%" alt="Coding Banner"/>
+<img src="https://www.canva.com/design/DAHAR-9EA3c/YW69jHJfB7rJH96aMDewRQ/edit?utm_content=DAHAR-9EA3c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" style="border-radius: 10px;" alt="Banner Profile"/>
 
 <br/><br/>
 

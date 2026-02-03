@@ -60,9 +60,9 @@
 </td>
 </tr>
 </table>
-</div>
 
 
+<div align="center">
 
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)

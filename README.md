@@ -88,7 +88,7 @@
 
 ### ᗧ···ᗣ···ᗣ···
 
-<img src="https://media.giphy.com/media/d9QiBcfemKBCbqa5fr/giphy.gif" width="100%" alt="Pacman Gameplay" style="border-radius: 10px;"/>
+<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%"/>
 
 <br/>
 

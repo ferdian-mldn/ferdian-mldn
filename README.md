@@ -6,12 +6,6 @@
 
 <br/>
 
-<p align="center">
- 🔭 I’m currently working on exciting web & mobile projects.<br>
- 🌱 I’m currently learning advanced backend architecture.<br>
- ⚡ Fun fact: I love automating boring tasks.
-</p>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ferdianmaulidin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdian-maulidin-614b53283/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdianmaulidin09@gmail.com)

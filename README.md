@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hello World!, I'm Ferdian Maulidin 👋
-### A Passionate Developer & Tech Enthusiast
+### Full Stack Software Engineer
 
-<img src="<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/f2a8bf95-6b2c-4752-a375-fb87ce8dddda" />" width="100%" style="border-radius: 10px;" alt="Banner Profile"/>
+<img src="https://github.com/user-attachments/assets/f2a8bf95-6b2c-4752-a375-fb87ce8dddda" width="100%" style="border-radius: 10px;" alt="Banner Profile"/>
 
 <br/><br/>
 
@@ -13,11 +13,11 @@
  ⚡ Fun fact: I love automating boring tasks.
 </p>
 
-<h2>🌐 Connect with Me</h2>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ferdianmaulidin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdian-maulidin-614b53283/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezaafriza652@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdianmaulidin09@gmail.com)
+
+</div>
 
 ---
 

@@ -62,7 +62,7 @@
 </table>
 
 
-<div align="center">
+
 
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -74,12 +74,14 @@
 
 <br/>
 
-### ✍️ Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
 ---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ferdian-mldn&label=Profile%20Views&color=0e75b6&style=flat" alt="ferdian-mldn" />
 

@@ -1,20 +1,25 @@
-<img src="https://github.com/user-attachments/assets/f2a8bf95-6b2c-4752-a375-fb87ce8dddda" width="100%" style="border-radius: 10px;" alt="Banner Profile"/>
-
-
+<div align="center">
 
 # Hello World!, I'm Ferdian Maulidin 👋
+### Full Stack Software Engineer
 
-<h2>🌐 Socials</h2>
+<img src="https://github.com/user-attachments/assets/f2a8bf95-6b2c-4752-a375-fb87ce8dddda" width="100%" style="border-radius: 10px;" alt="Banner Profile"/>
+
+<br/><br/>
+
+<p align="center">
+ 🔭 I’m currently working on exciting web & mobile projects.<br>
+ 🌱 I’m currently learning advanced backend architecture.<br>
+ ⚡ Fun fact: I love automating boring tasks.
+</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ferdianmaulidin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdian-maulidin-614b53283/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdianmaulidin09@gmail.com)
 
-
-
 ---
 
-<h2>💻Tech Stack:</h2>
+<h2>💻 Tech Stack:</h2>
 </div>
 
 ### 🗣️ Programming Languages
@@ -40,6 +45,7 @@
 
 <br/>
 
+<div align="center">
 <h2>📈 GitHub Analytics</h2>
 
 <table align="center">
@@ -59,9 +65,6 @@
 </tr>
 </table>
 
-
-
-
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -72,14 +75,21 @@
 
 <br/>
 
-### ✍️Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
----
+<h2>🕹️ Play Game with Me</h2>
+<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<div align="center">
+<br/>
+
+<img src="https://raw.githubusercontent.com/a374ru/a374ru/master/assets/pacman.gif" width="100%" />
+
+<br/>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=ferdian-mldn&label=Profile%20Views&color=0e75b6&style=flat" alt="ferdian-mldn" />
 

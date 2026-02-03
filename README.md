@@ -78,7 +78,7 @@
 
 <h2>🕹️ Play Game with Me</h2>
 
-<img src="https://raw.githubusercontent.com/ferdian-mldn/ferdian-mldn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/ferdian-mldn/ferdian-mldn/output-snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <br/>
 

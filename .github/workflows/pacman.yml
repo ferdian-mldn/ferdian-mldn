@@ -1,14 +1,9 @@
 name: Pacman Contribution Graph
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
     - master
@@ -31,5 +26,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true  # <--- INI KUNCINYA BIAR GAK MENGHAPUS SNAKE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

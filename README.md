@@ -3,7 +3,7 @@
 # Hello World!, I'm Ferdian Maulidin 👋
 ### A Passionate Developer & Tech Enthusiast
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRwN2ZjdjRpZHpiMmY0bHBkNmN6NHk4cmNuMTJ2ZWhndTB1YmUwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="600" alt="Coding GIF"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRwN2ZjdjRpZHpiMmY0bHBkNmN6NHk4cmNuMTJ2ZWhndTB1YmUwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Coding GIF"/>
 
 <br/><br/>
 

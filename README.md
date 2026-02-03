@@ -81,11 +81,14 @@
 <br/>
 
 <h2>🕹️ Play Game with Me</h2>
-<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/ferdian-mldn/ferdian-mldn/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" width="100%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/a374ru/a374ru/master/assets/pacman.gif" width="100%" />
+### ᗧ···ᗣ···ᗣ···
+
+<img src="https://media.giphy.com/media/d9QiBcfemKBCbqa5fr/giphy.gif" width="100%" alt="Pacman Gameplay" style="border-radius: 10px;"/>
 
 <br/>
 

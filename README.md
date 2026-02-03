@@ -52,7 +52,7 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ferdian-mldn&theme=tokyonight&hide_border=true&show_icons=true" alt="Ferdian's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdian-mldn&theme=tokyonight&hide_border=true&show_icons=true" alt="Ferdian's GitHub Stats" />
 </td>
 <td align="center" width="50%">
 <img src="https://nirzak-streak-stats.vercel.app/?user=ferdian-mldn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -61,10 +61,11 @@
 <tr>
 <td colspan="2" align="center">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdian-mldn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdian-mldn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
+</div>
 
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)

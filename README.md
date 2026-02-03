@@ -82,7 +82,7 @@
 
 ---
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ferdian-mldn&icon=5&color=10" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ferdian-mldn&label=Profile%20Views&color=0e75b6&style=flat" alt="ferdian-mldn" />
 </p>
+
 <p align="center">Thanks for visiting my profile!</p>
-</div>

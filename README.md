@@ -6,6 +6,8 @@
 
 <br/>
 
+<h2>🌐 Socials</h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ferdianmaulidin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdian-maulidin-614b53283/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferdianmaulidin09@gmail.com)
@@ -14,7 +16,7 @@
 
 ---
 
-<h2>💻 The Arsenal (Tech Stack)</h2>
+<h2>💻Tech Stack:</h2>
 </div>
 
 ### 🗣️ Programming Languages
@@ -39,7 +41,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br/>
-<div align="center">
+
 <h2>📈 GitHub Analytics</h2>
 
 <table align="center">
@@ -60,7 +62,7 @@
 </table>
 </div>
 
-<div align="center">
+
 
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)

@@ -67,8 +67,12 @@
 </table>
 </div>
 
+<div align="center">
+
 ### 🏆 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=ferdian-mldn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<br/>
 
 ### 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=ferdian-mldn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
@@ -81,8 +85,9 @@
 <br/>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferdian-mldn&label=Profile%20Views&color=0e75b6&style=flat" alt="ferdian-mldn" />
-</p>
 
-<p align="center">Thanks for visiting my profile!</p>
+<img src="https://komarev.com/ghpvc/?username=ferdian-mldn&label=Profile%20Views&color=0e75b6&style=flat" alt="ferdian-mldn" />
+
+<p>Thanks for visiting my profile!</p>
+
+</div>
